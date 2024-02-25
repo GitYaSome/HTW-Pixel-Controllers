@@ -1,5 +1,8 @@
 # HTW-Pixel-Controllers
 
+![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/08c95f18-c6b4-4ec6-b388-04323e231303)
+
+
 I originally wanted to create these controllers for Honor The Warriors so that every HTW participant in any parade or night ride could have a high quality set of LED lights.  Then on February 5th I found out about Terry Sague being hit and killed by a car and another cyclist that was in the group being hospitalized which was yet another reason to get these done sooner than later.
 Basic Use (No app, just plug in and use):
 1.	Plug USB cord into trike battery or USB Powerbank.
