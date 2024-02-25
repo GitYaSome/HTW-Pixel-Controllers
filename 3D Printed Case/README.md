@@ -17,3 +17,9 @@ Lid:
 
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/c5f26c50-283c-442f-9024-a74760c85a34)
 
+Mount:
+
+![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/0d5c7c94-87db-4086-b2e5-1f0870e547bd)
+
+![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/0c5596d6-bab0-47aa-a676-d082d020a5a3)
+
