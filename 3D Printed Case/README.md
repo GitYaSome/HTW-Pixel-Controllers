@@ -6,7 +6,7 @@ Case:
 
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/680e426c-20c9-488e-bdca-61c8dafc81c3)
 
-Insert:
+Insert (Print 1 red, 1 white and 1 blue):
 
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/02a61d74-05f5-48e7-922f-eecacc9d6fdb)
 
