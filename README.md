@@ -15,10 +15,13 @@ c.	Multicolor – Multicolor cycle
 d.	Night Ride – Red, White, & Orange
 e.	Maintenance – All White – Use for fixing something on your trike in the dark.
 
-Advanced Use (:
+Advanced Use:
 Download app to your phone:
+
 	iPhone: = WLED Native = https://apps.apple.com/us/app/wled-native/id6446207239 
+ 
 	Android = WLED = https://play.google.com/store/apps/details?id=com.aircoookie.WLED 
+ 
 
 Open the app and make it scan for new instances of WLED – You should see an instance with the ID that is on the white label on your controller’s cable.
 Pick any colors / Effects that you want!
