@@ -18,7 +18,7 @@ Some 3D Printed Lids and Tube Mounts:
 Lids done:
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/f6c5e563-0a0f-4f04-8f29-c36f324334e9)
 
-3d Printed Inserts:
+3d Printed Inserts:                                                
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/5a6df2f3-44bc-4960-b760-5159253f688a)
 
 3D printed Lids with RED, White, and Blue inserts:
