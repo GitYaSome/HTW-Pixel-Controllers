@@ -3,7 +3,7 @@
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/08c95f18-c6b4-4ec6-b388-04323e231303)
 
 
-I originally wanted to create these controllers as a gift for my fellow Warriors so that every HTW participant in any parade or night ride could have a high-quality set of LED lights.  On February 5th I found out about Terry Sague being hit and killed by a car.  Other cyclists he was with were hospitalized.  That was yet another reason to get these done sooner rather than later.
+I originally wanted to create these controllers as a gift for my fellow Warriors so that every HTW participant in any parade or night ride could have a high-quality set of LED lights.  On February 5th, 2024 I found out about Terry Sague being hit and killed by a car.  Other cyclists he was with were hospitalized.  That was yet another reason to get these done sooner rather than later.
 
 
 Basic Use:
@@ -11,11 +11,12 @@ Basic Use:
 2.	Press the power switch on the side of the USB Powerbank.
 3.	Turn on the controller via the toggle switch. (It will default to 4th of July / Red, White, and Blue)
 4.	Select a preset by pressing preset button – I programmed 5 presets into them:
-a.	4th of July – Red, White, & Blue – (Default when the controller is turned on)
-b.	Christmas – Red & Green
-c.	Multicolor – Multicolor cycle – Alternate for Christmas
-d.	Night Ride – Red, White, & Orange
-e.	Maintenance – All White – Use for fixing something on your trike in the dark.
+
+ a.	4th of July – Red, White, & Blue – (Default when the controller is turned on)
+ b.	Christmas – Red & Green
+ c.	Multicolor – Multicolor cycle – Alternate for Christmas
+ d.	Night Ride – Red, White, & Orange
+ e.	Maintenance – All White – Use for fixing something on your trike in the dark.
 
 
 Notes:
