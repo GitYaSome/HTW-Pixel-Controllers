@@ -15,11 +15,17 @@ Some 3D Printed cases:
 Some 3D Printed Lids and Tube Mounts:
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/4ab18ff1-3d51-47ce-b38d-591dfa68b535)
 
+Lids done:
+![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/f6c5e563-0a0f-4f04-8f29-c36f324334e9)
+
 3d Printed Inserts:
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/5a6df2f3-44bc-4960-b760-5159253f688a)
 
 3D printed Lids with RED, White, and Blue inserts:
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/605d45ad-fae6-4c65-93c2-4ff11ade9f4c)
+
+3D Printed End Caps for the Pixel Strings:
+![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/3eb93166-c96e-4db9-a321-a5932b20096e)
 
 Waterproofing backs of inserts with liquid electrical tape:
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/89803346-c85b-432d-ba58-28403030ae5f)
@@ -55,26 +61,3 @@ Burn in test:
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/3d5d7df7-71e8-4696-9f60-96d8e7dee9d3)
 
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/e91e5bcc-095b-49c9-a982-30255f372bcc)
-
-
-
-
-
-
-
-
-
-
-
-
-
-Lids done:
-![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/f6c5e563-0a0f-4f04-8f29-c36f324334e9)
-
-
-
-
-3D Printed End Caps for the Pixel Strings:
-![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/3eb93166-c96e-4db9-a321-a5932b20096e)
-
-
