@@ -21,7 +21,7 @@ e.	Maintenance – All White – Use for fixing something on your trike in the d
 Notes:
 1.	Unfortunately, the power switches I got from China are not as moisture proof as I thought and can get oxidation on the contacts.  If after doing steps 1-3 above the controller does not turn on, rapidly turn the power switch on and off about 10-20 times to clean the contacts.  (I added 2 silica gel packs to the 3D printed cases and used form-a-gasket to seal the lids on, so hopefully this won’t be an issue.)
 2.	The white USB-A to USB-C cable in the accessory bag is to charge the USB Powerbanks.  The USB-C connectors on the USB Powerbanks are VERY delicate – PLEASE BE VERY CAREFUL INSERTING AND REMOVING THOSE CABLES.
-In case anyone ever needs to make more or needs to troubleshoot, etc.. - I put all the documentation for these up on a public GitHub repository: https://github.com/GitYaSome/HTW-Pixel-Controllers/tree/main 
+In case anyone ever needs to make more or needs to troubleshoot, etc..
 
  
 1.	3D Printed Case design files
