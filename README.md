@@ -1,4 +1,4 @@
-# HTW-Pixel-Controllers
+# HTW Pixel Controllers
 
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/08c95f18-c6b4-4ec6-b388-04323e231303)
 
