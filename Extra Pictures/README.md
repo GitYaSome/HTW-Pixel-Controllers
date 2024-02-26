@@ -24,7 +24,7 @@ Lids done:
 3D printed Lids with RED, White, and Blue inserts:
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/605d45ad-fae6-4c65-93c2-4ff11ade9f4c)
 
-3D Printed End Caps for the Pixel Strings:
+3D Printed End Caps for the Pixel Strings:                                                 
 ![image](https://github.com/GitYaSome/HTW-Pixel-Controllers/assets/18668499/3eb93166-c96e-4db9-a321-a5932b20096e)
 
 Waterproofing backs of inserts with liquid electrical tape:
