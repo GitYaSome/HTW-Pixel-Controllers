@@ -9,11 +9,11 @@ Basic Use (No app, just plug in and use):
 2.	Press the power switch on the side of the USB Powerbank.
 3.	Turn it on via toggle switch. (It will default to 4th of July / Red, White, and Blue)
 4.	Select a preset by pressing preset button – I programmed 5 presets into them:
-a.	4th of July – Red, White, & Blue – (Default when the controller is turned on)
-b.	Christmas – Red & Green
-c.	Multicolor – Multicolor cycle
-d.	Night Ride – Red, White, & Orange
-e.	Maintenance – All White – Use for fixing something on your trike in the dark.
+	a.	4th of July – Red, White, & Blue – (Default when the controller is turned on)
+	b.	Christmas – Red & Green
+	c.	Multicolor – Multicolor cycle
+	d.	Night Ride – Red, White, & Orange
+	e.	Maintenance – All White – Use for fixing something on your trike in the dark.
 
 Advanced Use:
 Download app to your phone:
