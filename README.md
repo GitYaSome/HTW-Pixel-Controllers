@@ -12,11 +12,11 @@ Basic Use:
 3.	Turn on the controller via the toggle switch. (It will default to 4th of July / Red, White, and Blue)
 4.	Select a preset by pressing preset button – I programmed 5 presets into them:
 
-  1.	4th of July – Red, White, & Blue – (Default when the controller is turned on)
-  2.	Christmas – Red & Green
-  3.	Multicolor – Multicolor cycle – Alternate for Christmas
-  4.	Night Ride – Red, White, & Orange
-  5.	Maintenance – All White – Use for fixing something on your trike in the dark.
+1.	4th of July – Red, White, & Blue – (Default when the controller is turned on)
+2.	Christmas – Red & Green
+3.	Multicolor – Multicolor cycle – Alternate for Christmas
+4.	Night Ride – Red, White, & Orange
+5.	Maintenance – All White – Use for fixing something on your trike in the dark.
 
 
 Notes:
